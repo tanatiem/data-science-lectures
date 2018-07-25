@@ -1,2 +1,2 @@
-# data-science-lectures
-My notes and also as a part of reflection on the contents I have studied regarding Data Science.
+# My Data Science Study Notes
+As a part of my reflection on the contents I have studied regarding Data Science.
